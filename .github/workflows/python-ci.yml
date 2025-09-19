@@ -21,7 +21,7 @@ jobs:
         
     - name: Install dependencies # Étape 3: Installer les librairies
       run: |
-        pip install -r requirements.txt
+        pip install -r dependances.txt
        
         pip install jupyter
         
