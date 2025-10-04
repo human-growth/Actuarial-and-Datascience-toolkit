@@ -1,4 +1,4 @@
-# ACTUARIAL & DATASCIENCE TOOLKIT
+# ACTUARIAT & DATASCIENCE 
 
 Ma collection de projets et outils pour l'actuariat
 
