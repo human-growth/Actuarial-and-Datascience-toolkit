@@ -1,6 +1,6 @@
 # ACTUARIAL & DATASCIENCE TOOLKIT
 
-Ma collection de projets et outils pour l'actuariat IARD et Vie
+Ma collection de projets et outils pour l'actuariat
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -10,8 +10,7 @@ Ma collection de projets et outils pour l'actuariat IARD et Vie
 
 ## À propos
 
-Ce repository regroupe mes projets académiques et personnels en **science actuarielle** ( 
-couvrant les domaines de l'assurance IARD et Vie) et en **science de la donnée** (Machine learning et IA).
+Ce repository regroupe mes projets académiques et personnels en **science actuarielle** et en **science de la donnée** (Machine learning et IA).
 
 **Objectifs** :
 - Documenter mes apprentissages
